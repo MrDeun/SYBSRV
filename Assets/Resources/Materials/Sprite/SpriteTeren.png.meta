@@ -1,43 +1,28 @@
 fileFormatVersion: 2
-guid: e66c43e442749bb43992bc3aeaa69e2a
+guid: ae7d80eb1dc5354458360c8e8dce411b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1045983932933289362
-    second: PlayerCharacterMix_0
+      213: 2493385503030781031
+    second: SpriteTeren_0
   - first:
-      213: -5326400710911351199
-    second: PlayerCharacterMix_1
+      213: 1816164125332325729
+    second: SpriteTeren_1
   - first:
-      213: 3345348049390625200
-    second: PlayerCharacterMix_2
+      213: 6149461418408407577
+    second: SpriteTeren_2
   - first:
-      213: -229934560894831646
-    second: PlayerCharacterMix_3
+      213: 9214876844187558513
+    second: SpriteTeren_3
   - first:
-      213: 5151041786255670090
-    second: PlayerCharacterMix_4
+      213: -7098427407338778891
+    second: SpriteTeren_4
   - first:
-      213: -7740967131915953411
-    second: PlayerCharacterMix_5
+      213: 8528121952687851948
+    second: SpriteTeren_5
   - first:
-      213: 3744164820063690283
-    second: PlayerCharacterMix_6
-  - first:
-      213: -3371761627725599929
-    second: PlayerCharacterMix_7
-  - first:
-      213: 1215665851528420059
-    second: PlayerCharacterMix_8
-  - first:
-      213: 2317438721640365063
-    second: PlayerCharacterMix_9
-  - first:
-      213: 5210880451368679403
-    second: PlayerCharacterMix_10
-  - first:
-      213: -1727429446370651770
-    second: PlayerCharacterMix_11
+      213: -594942465554009459
+    second: SpriteTeren_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -159,12 +144,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PlayerDownRight_1
+      name: TileWater
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -174,19 +159,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e6aceb4a72beb71f0800000000000000
-      internalID: -1045983932933289362
+      spriteID: 764224c87e84a9220800000000000000
+      internalID: 2493385503030781031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDownRight_2
+      name: SpriteTeren_1
       rect:
         serializedVersion: 2
-        x: 17
+        x: 32
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -196,19 +181,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 166adbe16c2d416b0800000000000000
-      internalID: -5326400710911351199
+      spriteID: 165cd3846af443910800000000000000
+      internalID: 1816164125332325729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDownLeft_1
+      name: SpriteTeren_2
       rect:
         serializedVersion: 2
-        x: 35
+        x: 64
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -218,19 +203,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b169f593501d6e20800000000000000
-      internalID: 3345348049390625200
+      spriteID: 912f33c2496475550800000000000000
+      internalID: 6149461418408407577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDownLeft_2
+      name: SpriteTeren_3
       rect:
         serializedVersion: 2
-        x: 52
+        x: 96
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -240,19 +225,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2e337403cbb1fccf0800000000000000
-      internalID: -229934560894831646
+      spriteID: 172a5c2daa1d1ef70800000000000000
+      internalID: 9214876844187558513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerTopLeft_1
+      name: SpriteTeren_4
       rect:
         serializedVersion: 2
-        x: 70
+        x: 128
         y: 0
-        width: 17
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -262,107 +247,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4b76f4963d2c7740800000000000000
-      internalID: 5151041786255670090
+      spriteID: 5fecca1d1e15d7d90800000000000000
+      internalID: -7098427407338778891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerTopLeft_2
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 0
-        width: 17
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dfadc2c286f829490800000000000000
-      internalID: -7740967131915953411
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerTopRight_1
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 0
-        width: 17
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2e19600112f5f330800000000000000
-      internalID: 3744164820063690283
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerCharacterMix_7
-      rect:
-        serializedVersion: 2
-        x: 124
-        y: 0
-        width: 17
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 74b6f18f9a81531d0800000000000000
-      internalID: -3371761627725599929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerDownRightShot_1
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 0
-        width: 17
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bda9ceda6a9eed010800000000000000
-      internalID: 1215665851528420059
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerDownRightShot_2
+      name: SpriteTeren_5
       rect:
         serializedVersion: 2
         x: 160
         y: 0
-        width: 19
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -372,19 +269,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70cfb103d32392020800000000000000
-      internalID: 2317438721640365063
+      spriteID: ca98b276bb9f95670800000000000000
+      internalID: 8528121952687851948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDownRightShot_3
+      name: SpriteTeren_6
       rect:
         serializedVersion: 2
-        x: 180
+        x: 192
         y: 0
-        width: 20
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -394,19 +291,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: be77bde7924c05840800000000000000
-      internalID: 5210880451368679403
+      spriteID: d82bbdecaf65eb7f0800000000000000
+      internalID: -594942465554009459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerDownRightShot_4
+      name: SpriteTeren_7
       rect:
         serializedVersion: 2
-        x: 201
+        x: 224
         y: 0
-        width: 19
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -414,10 +311,252 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 68117822210f608e0800000000000000
-      internalID: -1727429446370651770
+      spriteID: 98ac5d0192289c3468e155d34a2a484a
+      internalID: 1042775942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteTeren_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c88e47d06923e04eb980deeb60dab0e
+      internalID: -701748627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteTeren_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438964ecb4a6abf4a9c471a7c310e500
+      internalID: 1702492505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteTeren_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b9f7409d29cdd4c8740302a483dbc7
+      internalID: -1816866448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteTeren_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cc955215d0bad4fa8b1a3c31a348c1
+      internalID: 1991920216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteTeren_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4ff2c4afcb1a8458efbbd568244c54
+      internalID: -336377262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteTeren_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934ddb27529ff674c8089597db5d41ac
+      internalID: 1162651105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteTeren_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1ddfb4f25997a44913d966c5e65bd6
+      internalID: 401749823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteTeren_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b830726d7965746b3b8737c4cf04c1
+      internalID: -1513810461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteTeren_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d66e81226bd2e94ca55e247edca35ce
+      internalID: -697657488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteTeren_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e0c1c0ff5bed048bfb99d9f28a105d
+      internalID: 573221133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteTeren_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d56a07642548c54b8ba981cb578b4ae
+      internalID: -69730379
       vertices: []
       indices: 
       edges: []
@@ -426,7 +565,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f519bd7ea6034b142909a580161f754d
+    spriteID: 1432ad6232c4b424ebd438773234adc3
     internalID: 0
     vertices: []
     indices: 
@@ -436,18 +575,25 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PlayerCharacterMix_7: -3371761627725599929
-      PlayerDownLeft_1: 3345348049390625200
-      PlayerDownLeft_2: -229934560894831646
-      PlayerDownRightShot_1: 1215665851528420059
-      PlayerDownRightShot_2: 2317438721640365063
-      PlayerDownRightShot_3: 5210880451368679403
-      PlayerDownRightShot_4: -1727429446370651770
-      PlayerDownRight_1: -1045983932933289362
-      PlayerDownRight_2: -5326400710911351199
-      PlayerTopLeft_1: 5151041786255670090
-      PlayerTopLeft_2: -7740967131915953411
-      PlayerTopRight_1: 3744164820063690283
+      SpriteTeren_1: 1816164125332325729
+      SpriteTeren_10: -1816866448
+      SpriteTeren_11: 1991920216
+      SpriteTeren_12: -336377262
+      SpriteTeren_13: 1162651105
+      SpriteTeren_14: 401749823
+      SpriteTeren_15: -1513810461
+      SpriteTeren_16: -697657488
+      SpriteTeren_17: 573221133
+      SpriteTeren_18: -69730379
+      SpriteTeren_2: 6149461418408407577
+      SpriteTeren_3: 9214876844187558513
+      SpriteTeren_4: -7098427407338778891
+      SpriteTeren_5: 8528121952687851948
+      SpriteTeren_6: -594942465554009459
+      SpriteTeren_7: 1042775942
+      SpriteTeren_8: -701748627
+      SpriteTeren_9: 1702492505
+      TileWater: 2493385503030781031
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
